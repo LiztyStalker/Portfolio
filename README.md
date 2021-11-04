@@ -1,26 +1,26 @@
 # 포트폴리오
 1. 이력
-Email : listener312@gmail.com
+- Email : listener312@gmail.com
 2. 보유기술
-	Unity
-		Stacks : C#, Editor, Cinemachine, Timeline
-		Utility : Spine, Anime2D, 
-	Git
-		Git : GitLab, GitHub, 
-		Utility : SourceTree, Git Desktop
-	Test Framework
-		Unity Test Framework	
+	- Unity
+		-- Stacks : C#, Editor, Cinemachine, Timeline
+		-- Utility : Spine, Anime2D, 
+	- Git
+		-- Git : GitLab, GitHub, 
+		-- Utility : SourceTree, Git Desktop
+	- Test Framework
+		-- Unity Test Framework	
 	
 3. 관심분야
- 	AI : ML-Agent, Behaviour Tree
-	Multicore Process : Unity DOTS
-	TDD : Test Framework
-	코드작성법 : Code Complete 2
+ 	- AI : ML-Agent, Behaviour Tree
+	- Multicore Process : Unity DOTS
+	- TDD : Test Framework
+	- 코드작성법 : Code Complete 2
 
 4. 경력 사항
-	(주)GamBridzy
-	Unity 클라이언트 프로그래머
-	2018년 6월 - 2021년 9월 | 3년 4개월
+	- (주)GamBridzy
+	-- Unity 클라이언트 프로그래머
+	-- 2018년 6월 - 2021년 9월 | 3년 4개월
 
 5. 경력 프로젝트
  	- [출시] The Wednesday (Unity 3D) - [19.05 ~ 20.12]
