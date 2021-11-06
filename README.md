@@ -64,7 +64,6 @@
 + Unity 2020.3 LTS 버전 사용
 + 언어 : C#
 + OS : Windows 10
-	- https://github.com/mob-sakai
 #### 3. 사용기술
 + Spine
 + Unity Graph Shader
