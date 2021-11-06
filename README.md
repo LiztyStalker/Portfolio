@@ -34,14 +34,11 @@
 ### [출시] The Wednesday - [19.05 ~ 20.12]
 #### 1. 개발인원 및 포지션
 + 총 10명 (기획 1명, 2D 그래픽 2명, 3D 그래픽 3명, 애니메이터 1명, 프로그래머 3명)
-+ 프로그래머 : 시스템 설계 및 개발
++ 프로그래머 : 게임 시스템 설계 및 개발
 #### 2. 개발환경
-+ Unity 2019.3 LTS 버전 사용
++ Unity 2019.3 LTS
 + 언어 : C#
-+ 
-+ Unity Cinemachine을 활용한 카메라 구도 적용
-+ Unity Timeline을 활용한 카메라 구도, 캐릭터 이동, 대사 연출 적용
-+ Google Spread Sheep -> Export Sheet Data로 json출력 후 LitJson으로 파싱	
++ OS : Windows 10
 #### 3. 사용기술
 + Unity Editor
 + Unity Cinemachine
@@ -49,7 +46,7 @@
 + Google Spread Sheep -> Export Sheet Data
 + LitJson
 #### 4. 개발 내용 설명
-+ 전체 시스템 설계
++ 게임 시스템 구조 설계
 + 아이템, 퀘스트, 대사, 단서 테이블 ScriptableObject 제작
 + 엑셀 제작 및 Export Sheet Data 플러그인을 활용하여 번역 데이터 json출력 후 적용하여 LitJson으로 파싱 (한, 영, 중)
 + Unity Cinemachine을 활용한 카메라 구도 적용
@@ -86,15 +83,19 @@
 #### 1. 개발인원 및 포지션
 + 총 2명 (2D 그래픽 1명, 프로그래머 1명)
 + 프로그래머 : 프로젝트 마무리 및 서버 이전
-#### 2. 사용기술 및 개발환경
-+ Unity 2019.3 LTS 버전 사용
-+ Cafe 24를 활용한 가벼운 Unity WWW 통신
-+ PHP, Mysql 활용
-#### 3. 개발 내용 설명
+#### 2. 개발환경
++ Unity 2019.3 LTS
++ 언어 : C#
++ 서버 : Cafe 24 Ubuntu Linux
++ 웹언어 : PHP
++ DB : Mysql
+#### 3. 사용기술
++ Unity WWW로 PHP호출 및 콜백
+#### 4. 개발 내용 설명
 + 프로젝트 마무리 개발
 + 디버깅 진행
-+ Cafe 24 서버 이전 
-#### 4. 개발 성과
++ Cafe 24를 활용한 서버 구축 및 APM 설치 후 호스트 변경에 의한 서버 이전 
+#### 5. 개발 성과
 + 서울대학원 납품 완료
 
 ### [출시] 아샤 런 - [18.06 ~ 18.09]
