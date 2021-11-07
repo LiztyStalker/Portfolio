@@ -133,7 +133,7 @@
 + AssetBundle 활용하여 데이터 통합
 + TestFramework를 활용하여 PlayMode, EditMode 단위 테스트
 + Spine을 활용하여 캐릭터 움직임 구현
-+ Unity Editor를 활용하여 캐릭터, 스킬, 상태이상 데이터 구현
++ Unity Editor 및 json을 활용하여 캐릭터, 스킬, 상태이상 데이터 구현
 
 ## 7. 학력
 * 강릉원주대학교 원주캠퍼스 컴퓨터공학과 [졸업] - (2011.03 ~ 2016.02)
