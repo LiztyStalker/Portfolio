@@ -119,7 +119,8 @@
 
 ## 6. 개인 프로젝트
 ### > [진행] 야수 엠파이어 - [21.05 - 진행중] <
-+ + https://github.com/LiztyStalker/BeastChess
++ https://github.com/LiztyStalker/BeastChess
+	- Prototype 2 - [21.05 ~ 21.10] 
 #### 1. 개발인원 및 포지션
 + 총 1명
 #### 2. 개발환경
