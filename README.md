@@ -131,7 +131,10 @@
 + 언어 : C#
 + OS : Windows 10
 #### 3. 사용기술
-+ Unity Editor, Spine, Unity Test Framework, AssetBundle
++ Unity Editor
++ Spine
++ Unity Test Framework
++ AssetBundle
 #### 4. 개발 내용 설명
 + AssetBundle 활용하여 데이터 통합
 + TestFramework를 활용하여 PlayMode, EditMode 단위 테스트
