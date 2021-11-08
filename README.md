@@ -99,6 +99,7 @@
 + 서울대학원 납품 완료
 ***
 ### > [출시] 아샤 런 - [18.06 ~ 18.09] <
++ https://www.youtube.com/watch?v=pPHGg6cq-DQ
 #### 1. 개발인원 및 포지션
 + 총 3명 (기획 1명, 2D 그래픽 1명, 프로그래머 1명)
 + 프로그래머 : 프로젝트 마무리 및 GPGS, Firebase, Facebook API 적용
