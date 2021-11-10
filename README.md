@@ -98,11 +98,11 @@
 + Soft Mask UI 오픈소스
 	- https://github.com/mob-sakai
 #### 4. 개발 내용 설명
-+ 벤치마킹 게임 분석 (Tangle Tower, 역전재판, Fran Bow, Little Misfortune)
-	+ 
-	+
-	+
-	+
++ 벤치마킹 게임 분석 (Tangle Tower, When the Past was Around, Fran Bow, Little Misfortune)
+	![Tangle Tower](./8Death/TangleTower_SystemFlow.jpg)
+	![ When the Past was Around](./8Death/WhenthePastwasAround_Systemflow.jpg)
+	![Fran Bow](./8Death/Franbow_SystemFlow.jpg)
+	![Little Misfortune](./8Death/LittleMisfortune_SystemFlow.jpg)
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
 + Button Styler를 활용하여 UI&UX 디자인
 + Spine을 활용한 대사 NPC 애니메이션
