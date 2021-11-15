@@ -104,7 +104,6 @@
 	![Fran Bow](./8Death/Franbow_SystemFlow.jpg)
 	![Little Misfortune](./8Death/LittleMisfortune_SystemFlow.jpg)
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
-+ Button Styler를 활용하여 UI&UX 적용
 + Spine을 활용한 대사화면 NPC 애니메이션 실행
 + Unity Graph Shader를 활용한 기초 쉐이더 테스트
 	+ Doodle Effect
