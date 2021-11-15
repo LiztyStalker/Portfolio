@@ -40,7 +40,7 @@
 + Unity 2019.3 LTS
 + 언어 : C#
 + OS : Windows 10
-#### 3. 사용기술
+#### 3. 사용기술 및 툴
 + Unity Editor
 + Unity Cinemachine
 + Unity Timeline
@@ -49,7 +49,7 @@
 #### 4. 개발 내용 설명
 + 게임 시스템 구조 설계 및 개발
 	- 플레이어, 맵, 상호작용자 관계 구축
-	- 계정, 사운드, 시나리오, 퀘스트는 Singleton을 사용하여 하나의 인스턴스로 진행	- 
+	- 계정, 사운드, 시나리오, 퀘스트는 Singleton을 사용하여 하나의 인스턴스로 진행 
 	- 플레이어 
 		- NavMesh 사용하여 x축으로 이동제작. 마우스 키보드 입력 및 단축키 적용
 	- 맵 
@@ -75,7 +75,7 @@
 	- 데이터
 		- 아이템, 퀘스트, 대사, 단서 테이블 ScriptableObject 제작
 		- ItemStorage, QuestManager 등 데이터 모음 클래스를 제작하여 사용할 루틴이 꺼내서 쓰도록 함
-+ 엑셀 제작 및 Export Sheet Data 플러그인을 활용하여 번역 데이터 json출력 후 적용하여 LitJson으로 파싱 (한, 영, 중)
++ 엑셀 테이블 제작 및 Export Sheet Data 플러그인을 활용하여 번역 데이터 json출력 후 적용하여 LitJson으로 파싱 (한, 영, 중)
 + Unity Cinemachine을 활용한 카메라 구도 및 연출 적용
 + Unity Timeline을 활용한 카메라 구도, 캐릭터 이동, 대사 연출 타임라인 적용
 #### 5. 개발 성과
@@ -91,7 +91,7 @@
 + Unity 2020.3 LTS 버전 사용
 + 언어 : C#
 + OS : Windows 10
-#### 3. 사용기술
+#### 3. 사용기술 및 툴
 + Spine
 + Unity Graph Shader
 + Unity New InputSystem
@@ -104,9 +104,9 @@
 	![Fran Bow](./8Death/Franbow_SystemFlow.jpg)
 	![Little Misfortune](./8Death/LittleMisfortune_SystemFlow.jpg)
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
-+ Button Styler를 활용하여 UI&UX 디자인
-+ Spine을 활용한 대사 NPC 애니메이션
-+ Unity Graph Shader를 활용한 기초 쉐이더 적용
++ Button Styler를 활용하여 UI&UX 적용
++ Spine을 활용한 대사화면 NPC 애니메이션 실행
++ Unity Graph Shader를 활용한 기초 쉐이더 테스트
 	+ Doodle Effect
 	+ Disolve Effect
 + Soft Mask UI 오픈소스 적용
