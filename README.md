@@ -158,6 +158,7 @@
 + https://github.com/LiztyStalker/BeastEmpire
 + https://github.com/LiztyStalker/BeastEmpire_Build
 	- Prototype 2 - [21.05 ~ 21.10] 
++ https://www.youtube.com/watch?v=YABfKev9TWk&t=6s
 #### 1. 개발인원 및 포지션
 + 개인 프로젝트
 #### 2. 개발환경
