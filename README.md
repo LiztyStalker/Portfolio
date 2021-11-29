@@ -21,8 +21,8 @@
 	+ Unity DOTS
 * TDD 
 	+ Test Framework
-* 코드작성법과 리팩토링
-	+ Code Complete 2 도서
+* Refactoring
+	+ Code Complete 2 - Book
 
 ## 4. 경력사항 - 3년 4개월
 * (주)GamBridzy
