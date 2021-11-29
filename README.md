@@ -11,7 +11,6 @@
 	+ Utility : SourceTree, Git Desktop
 * Test Framework
 	+ Unity Test Framework	
-* Prototype Develop
 * Test Driven Develop
 
 
@@ -153,7 +152,7 @@
 + Google Play Store 출시 성공 [18.09]
 + 1개월 후 3만 다운로드 달성
 
-## 6. 개인 프로젝트
+## 6. 토이 프로젝트
 ### > [진행] 야수 엠파이어 - [21.05 - 진행중] <
 + https://github.com/LiztyStalker/BeastEmpire
 + https://github.com/LiztyStalker/BeastEmpire_Build
