@@ -23,6 +23,8 @@
 	+ Test Framework
 * Refactoring
 	+ Code Complete 2 - Book
+* Architecture
+ 	+ 개발자에서 아키텍트로 - Book
 
 ## 4. 경력사항 - 3년 4개월
 * (주)GamBridzy
@@ -153,36 +155,9 @@
 + 1개월 후 3만 다운로드 달성
 
 ## 6. 토이 프로젝트
-### > [진행] 야수 엠파이어 - [21.05 - 진행중] <
-+ https://github.com/LiztyStalker/BeastEmpire
-+ https://github.com/LiztyStalker/BeastEmpire_Build
-	- Prototype 2 - [21.05 ~ 21.10] 
-+ https://www.youtube.com/watch?v=YABfKev9TWk
-#### 1. 개발인원 및 포지션
-+ 개인 프로젝트
-#### 2. 개발환경
-+ 개발환경 : Unity 2020.3 LTS
-+ 언어 : C#
-+ OS : Windows 10
-#### 3. 사용기술
-+ Unity Editor
-+ Spine
-+ Unity Test Framework
-+ AssetBundle
-#### 4. 개발 내용 설명
-+ AssetBundle을 활용하여 데이터 통합 및 데이터 저장소 시스템 구현
-+ TestFramework를 활용하여 PlayMode, EditMode 단위 및 통합 테스트
-	- EditMode - 제작한 루틴 단위 테스트 (블록 범위, 위치, 목표 데이터 처리)
-	- PlayMode - 제작한 스킬, 병사, 명령, 밸런스 통합 테스트
-+ Spine을 활용하여 캐릭터 움직임 구현
-+ Unity Editor 및 json을 활용하여 캐릭터, 스킬, 상태이상 데이터 구현
-	- json 데이터를 기반으로 자동 병사 생성기 제작 (UnitGenerator)
-#### 5. 개발 성과
-+ Prototype 2 지인들에게 배포 및 피드백 [2021.10]
-	- 개선사항 발생, 차기 Prototype 3를 위해서 추가 작업 내용 작성
-	- 리팩토링 및 기획 진행 후 차기 Prototype 3 진행 예정 
-	
-
+### > [진행] 도형 디펜스 = [22.03 - ] <
+### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
+### > [중단] 야수 엠파이어 - [21.03 - 21.09] <
 ## 7. 학력
 * 강릉원주대학교 원주캠퍼스 컴퓨터공학과 [졸업] - (2010.03 ~ 2016.02)
 
