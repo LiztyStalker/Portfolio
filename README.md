@@ -100,10 +100,6 @@
 	- https://github.com/mob-sakai
 #### 4. 개발 내용 설명
 + 벤치마킹 게임 분석 (Tangle Tower, When the Past was Around, Fran Bow, Little Misfortune)
-	![Tangle Tower](./8Death/TangleTower_SystemFlow.jpg)
-	![ When the Past was Around](./8Death/WhenthePastwasAround_Systemflow.jpg)
-	![Fran Bow](./8Death/Franbow_SystemFlow.jpg)
-	![Little Misfortune](./8Death/LittleMisfortune_SystemFlow.jpg)
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
 + Spine을 활용한 대사화면 NPC 애니메이션 실행
 + Unity Graph Shader를 활용한 기초 쉐이더 테스트
@@ -162,6 +158,7 @@
 ### > [중단] 야수 엠파이어 - [21.03 - 21.09] <
 + https://github.com/LiztyStalker/BeastEmpire
 + https://github.com/LiztyStalker/BeastEmpire_Build
++ https://www.youtube.com/watch?v=YABfKev9TWk
 ## 7. 학력
 * 강릉원주대학교 원주캠퍼스 컴퓨터공학과 [졸업] - (2010.03 ~ 2016.02)
 
