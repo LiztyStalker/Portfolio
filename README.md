@@ -155,6 +155,7 @@
 + 프로젝트 : https://github.com/LiztyStalker/ShapeDefence
 ### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
 + 프로젝트 : https://github.com/LiztyStalker/SiegeEngineFactory
++ 영상 : https://www.youtube.com/watch?v=oAva-7LGesg
 ### > [중단] 야수 엠파이어 - [21.03 - 21.09] <
 + 프로젝트 : https://github.com/LiztyStalker/BeastEmpire
 + 빌드 : https://github.com/LiztyStalker/BeastEmpire_Build
