@@ -152,13 +152,13 @@
 
 ## 6. 토이 프로젝트
 ### > [진행] 도형 디펜스 = [22.03 - ] <
-+ https://github.com/LiztyStalker/ShapeDefence
++ 프로젝트 : https://github.com/LiztyStalker/ShapeDefence
 ### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
-+ https://github.com/LiztyStalker/SiegeEngineFactory
++ 프로젝트 : https://github.com/LiztyStalker/SiegeEngineFactory
 ### > [중단] 야수 엠파이어 - [21.03 - 21.09] <
-+ https://github.com/LiztyStalker/BeastEmpire
-+ https://github.com/LiztyStalker/BeastEmpire_Build
-+ https://www.youtube.com/watch?v=YABfKev9TWk
++ 프로젝트 : https://github.com/LiztyStalker/BeastEmpire
++ 빌드 : https://github.com/LiztyStalker/BeastEmpire_Build
++ 영상 : https://www.youtube.com/watch?v=YABfKev9TWk
 ## 7. 학력
 * 강릉원주대학교 원주캠퍼스 컴퓨터공학과 [졸업] - (2010.03 ~ 2016.02)
 
