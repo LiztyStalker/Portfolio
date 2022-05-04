@@ -48,37 +48,13 @@
 + Google Spread Sheep -> Export Sheet Data
 + LitJson
 #### 4. 개발 내용 설명
-+ 게임 시스템 구조 설계 및 개발
-	- 플레이어, 맵, 상호작용자 관계 구축
-	- 계정, 사운드, 시나리오, 퀘스트는 Singleton을 사용하여 하나의 인스턴스로 진행 
-	- 플레이어 
-		- NavMesh 사용하여 x축으로 이동제작. 마우스 키보드 입력 및 단축키 적용
-	- 맵 
-		- 플레이어와 상호작용자가 배치되는 맵. 퀘스트 값에 따라 일반맵, 은신맵, 상호작용자 활성, 비활성이 진행됨.
-	- 상호작용자
-		- Interact를 상속받은 개체는 Interact Update로 매 프레임 읽으며 플레이어 접근시 상호작용 가능하다는 메소드 실행 (CallInteract)
-		- 상호작용 명령이 내려오면 상호작용 후 Interact를 상속한 자식 클래스 실행 (ActionInteract)
-		- 플레이어가 떠나면 상호작용 떠남 메소드 실행 (LeaveInteract)
-	- 계정
-		- 플레이어가 현재 진행했던 데이터 모음
-		- 실시간 저장을 진행하도록 IAccountData 추상화하여 직렬화 된 데이터를 AccountIO를 활용해 데이터 저장
-		- 불러오기시 반대로 저장된 데이터를 역직렬화하여 데이터 불러오기
-	- 퀘스트 
-		- 특정 행동이 일어나면 해당하는 행동의 enum Type을 QuestManager에 전달. 
-		- 조건에 부합하는 Quest가 있으면 Account에 Quest 등록 후 상호작용자 활성 및 비활성화 진행 후 연출 실행
-		- Quest Table을 제작하고 json으로 출력
-	- 대사
-		- 해당 메인 대사 키 제작
-		- 메인 대사키를 가진 대사 리스트를 파싱
-		- Dialogue Table을 제작하고 json으로 출력
-	- 사운드
-		- AudioMixer사용
-	- 데이터
-		- 아이템, 퀘스트, 대사, 단서 테이블 ScriptableObject 제작
-		- ItemStorage, QuestManager 등 데이터 모음 클래스를 제작하여 사용할 루틴이 꺼내서 쓰도록 함
-+ 엑셀 테이블 제작 및 Export Sheet Data 플러그인을 활용하여 번역 데이터 json출력 후 적용하여 LitJson으로 파싱 (한, 영, 중)
-+ Unity Cinemachine을 활용한 카메라 구도 및 연출 적용
-+ Unity Timeline을 활용한 카메라 구도, 캐릭터 이동, 대사 연출 타임라인 적용
++ 플레이어, 맵, 상호작용자 설계 및 개발
++ 대사 및 시나리오 설계 및 개발
++ 미니게임 개발 (은신, 전선 스위치, 자물쇠, 책장)
++ 게임 데이터 Google Sheet로 제작 후 Export Sheet Data Plugin으로 Json 출력하여 LitJson으로 ScriptableObject 생성
++ 번역 데이터도 위와 같이 진행하여 1달 만에 추가 번역 적용 (한, 영, 중)
++ Unity Cinemachine과 Unity Timeline을 활용한 카메라 구도, 캐릭터 이동, 대사 연출, 타임라인 적용
++ https://docs.google.com/presentation/d/1YHkrxCUtmAcaiyMOj-92dE2XuuvO-lWEZMLt9hcYkhQ/edit?usp=sharing
 #### 5. 개발 성과
 + 텀블벅 이후 스팀에 출시 성공 [2020.12] 
 + 영어 번역판 업데이트 [2020.12]
@@ -106,6 +82,7 @@
 	+ Doodle Effect
 	+ Disolve Effect
 + Soft Mask UI 오픈소스 적용
++ https://docs.google.com/presentation/d/1KoBc4QVAAdnh_B5Dd3UeOM6GM-RPUoFsFFp1mH5URWs/edit?usp=sharing
 ***
 ### > [완료] 행복누리 프로젝트 - [19.01 ~ 19.04] <
 #### 1. 개발인원 및 포지션
@@ -153,6 +130,7 @@
 ## 6. 토이 프로젝트
 ### > [진행] 도형 디펜스 = [22.03 - ] <
 + 프로젝트 : https://github.com/LiztyStalker/ShapeDefence
++ 포트폴리오 : https://docs.google.com/presentation/d/1PLujsKCygNoWdo1cLKCpeE39IZXtbwl4IZ3F0mROUN0/edit?usp=sharing
 ### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
 + 프로젝트 : https://github.com/LiztyStalker/SiegeEngineFactory
 + 영상 : https://www.youtube.com/watch?v=oAva-7LGesg
