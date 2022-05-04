@@ -21,9 +21,8 @@
 	+ Unity DOTS
 * TDD 
 	+ Test Framework
-* Refactoring
+* Book
 	+ Code Complete 2 - Book
-* Architecture
  	+ 개발자에서 아키텍트로 - Book
 
 ## 4. 경력사항 - 3년 4개월
