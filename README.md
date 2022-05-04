@@ -50,7 +50,7 @@
 #### 4. 개발 내용 설명
 + 플레이어, 맵, 상호작용자 설계 및 개발
 + 대사 및 시나리오 설계 및 개발
-+ 미니게임 개발 (은신, 전선 스위치, 자물쇠, 책장)
++ 미니게임 개발 (은신, 전선 스위치, 자물쇠)
 + 게임 데이터 Google Sheet로 제작 후 Export Sheet Data Plugin으로 Json 출력하여 LitJson으로 ScriptableObject 생성
 + 번역 데이터도 위와 같이 진행하여 1달 만에 추가 번역 적용 (한, 영, 중)
 + Unity Cinemachine과 Unity Timeline을 활용한 카메라 구도, 캐릭터 이동, 대사 연출, 타임라인 적용
@@ -134,7 +134,7 @@
 + 포트폴리오 : https://docs.google.com/presentation/d/1PLujsKCygNoWdo1cLKCpeE39IZXtbwl4IZ3F0mROUN0/edit?usp=sharing
 ### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
 + 프로젝트 : https://github.com/LiztyStalker/SiegeEngineFactory
-+ 영상 : https://www.youtube.com/watch?v=oAva-7LGesg
++ 영상 : https://youtu.be/oAva-7LGesg
 ### > [중단] 야수 엠파이어 - [21.03 - 21.09] <
 + 프로젝트 : https://github.com/LiztyStalker/BeastEmpire
 + 빌드 : https://github.com/LiztyStalker/BeastEmpire_Build
