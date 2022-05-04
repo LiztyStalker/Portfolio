@@ -58,7 +58,7 @@
 #### 5. 개발 성과
 + 텀블벅 이후 스팀에 출시 성공 [2020.12] 
 + 영어 번역판 업데이트 [2020.12]
-+ 중국어 번역판 업데이트 [2020.03]
++ 한달만에 중국어 번역판 업데이트 [2020.03]
 ***
 ### > [취소] 8인의 죽음 - [21.01 ~ 21.09] <
 #### 1. 개발인원 및 포지션
@@ -78,6 +78,7 @@
 + 벤치마킹 게임 분석 (Tangle Tower, When the Past was Around, Fran Bow, Little Misfortune)
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
 + Spine을 활용한 대사화면 NPC 애니메이션 실행
++ UI 시스템 개발
 + Unity Graph Shader를 활용한 기초 쉐이더 테스트
 	+ Doodle Effect
 	+ Disolve Effect
