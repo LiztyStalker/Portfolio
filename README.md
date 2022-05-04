@@ -16,7 +16,7 @@
 
 ## 3. 관심분야
 * AI
-	+ ML-Agent, Behaviour Tree
+	+ Behaviour Tree
 * Multicore Process
 	+ Unity DOTS
 * TDD 
@@ -79,9 +79,6 @@
 + Unity New InputSystem을 활용한 마우스 키보드 바인딩 진행
 + Spine을 활용한 대사화면 NPC 애니메이션 실행
 + UI 시스템 개발
-+ Unity Graph Shader를 활용한 기초 쉐이더 테스트
-	+ Doodle Effect
-	+ Disolve Effect
 + Soft Mask UI 오픈소스 적용
 + https://docs.google.com/presentation/d/1KoBc4QVAAdnh_B5Dd3UeOM6GM-RPUoFsFFp1mH5URWs/edit?usp=sharing
 ***
@@ -132,6 +129,7 @@
 ### > [진행] 도형 디펜스 = [22.03 - ] <
 + 프로젝트 : https://github.com/LiztyStalker/ShapeDefence
 + 포트폴리오 : https://docs.google.com/presentation/d/1PLujsKCygNoWdo1cLKCpeE39IZXtbwl4IZ3F0mROUN0/edit?usp=sharing
++ 영상 : https://youtu.be/_p_VrD0o8TA
 ### > [중단] 공성병기팩토리 - [21.12 - 22.03] <
 + 프로젝트 : https://github.com/LiztyStalker/SiegeEngineFactory
 + 영상 : https://youtu.be/oAva-7LGesg
